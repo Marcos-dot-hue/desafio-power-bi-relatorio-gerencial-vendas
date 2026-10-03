@@ -103,3 +103,78 @@ DIVIDE(
     SUM(financials[Vendas Brutas]),
     0
 )
+```
+
+A utilização de `DIVIDE` permite realizar o cálculo de forma segura, evitando erros em situações de divisão por zero.
+
+---
+
+## 🛠️ Tecnologias e Recursos
+
+- Microsoft Power BI Desktop
+- DAX
+- Power Query
+- Indicadores (Bookmarks)
+- Botões e ações
+- Segmentação de dados
+- Cartões/KPIs
+- Gráficos de barras
+- Gráfico de pizza
+- Gráfico de rosca
+- Treemap
+- Ribbon Chart
+- Gráfico de cascata
+- Visualização geográfica
+
+---
+
+## 🖼️ Relatório
+
+### Sales Report
+
+![Sales Report](images/sales-report.png)
+
+### Lucro Report Detalhado
+
+![Lucro Report Detalhado](images/lucro-report-detalhado.png)
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+desafio-power-bi-relatorio-gerencial-vendas/
+│
+├── images/
+│   ├── sales-report.png
+│   └── lucro-report-detalhado.png
+│
+├── Desafio_Relatorio_Gerencial_Vendas_DIO_Marcos_Roberto.pbix
+└── README.md
+```
+
+---
+
+## 🚀 Aprendizados
+
+Durante o desenvolvimento deste projeto foram aplicados conceitos importantes de Business Intelligence, incluindo:
+
+- construção de dashboards;
+- organização visual das informações;
+- definição e utilização de KPIs;
+- criação de medidas DAX;
+- análise temporal;
+- utilização de filtros e segmentações;
+- navegação entre páginas;
+- criação de interatividade com indicadores;
+- escolha de diferentes tipos de visualização conforme o objetivo da análise.
+
+O projeto também permitiu experimentar recursos além da reprodução direta do exercício, buscando transformar o relatório em uma solução mais interativa e orientada à análise gerencial.
+
+---
+
+## 👤 Autor
+
+**Marcos Roberto**
+
+Projeto desenvolvido para fins educacionais como parte do **Bootcamp / Desafio de Power BI da DIO**.
