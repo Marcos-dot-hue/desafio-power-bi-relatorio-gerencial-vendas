@@ -23,7 +23,6 @@ Construir um relatório gerencial capaz de apresentar informações relevantes s
 - evolução dos resultados ao longo do tempo.
 
 O relatório também foi estruturado para permitir diferentes formas de exploração dos dados por meio de filtros, segmentações e navegação entre páginas.
-
 ---
 
 ## 📈 Sales Report
